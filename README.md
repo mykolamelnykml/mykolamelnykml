@@ -3,7 +3,7 @@ Hello 👋 I am a ML/Data engineer with over 20 years experience in software dev
 
 ## My Projects
 
-### <img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/16/d6/16d6a0d6-f162-42ad-a5a3-7dc20361ad24/sparkpdf.png__1000x300_subsampling-2.webp" height="120">
+### <a href="https://stabrise.com/spark-pdf/"><img alt="Spark Pdf" src="https://stabrise.com/media/filer_public_thumbnails/filer_public/16/d6/16d6a0d6-f162-42ad-a5a3-7dc20361ad24/sparkpdf.png__1000x300_subsampling-2.webp" height="120"></a>
 
 ---
 
