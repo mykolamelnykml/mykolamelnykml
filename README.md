@@ -11,7 +11,7 @@ Hello 👋 I am a ML/Data engineer with over 20 years experience in software dev
 
 **Home page**: [https://stabrise.com/spark-pdf/](https://stabrise.com/spark-pdf/)
 
-**Quick Start Jupyter Notebook**: [https://github.com/StabRise/spark-pdf/blob/main/examples/PdfDataSource.ipynb](https://github.com/StabRise/spark-pdf/blob/main/examples/PdfDataSource.ipynb)
+**Quick Start Jupyter Notebook**: [PdfDataSource.ipynb](https://github.com/StabRise/spark-pdf/blob/main/examples/PdfDataSource.ipynb)
 
 ---
 
