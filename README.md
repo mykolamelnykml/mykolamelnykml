@@ -99,6 +99,5 @@ ScaleDP is an Open-Source Library for processing documents using Apache Spark.
 
 [![Mykola's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mykolamelnykml&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/mykolamelnykml)
 
-![](https://github-profile-trophy.vercel.app/?username=mykolamelnykml&rank=-A,-C,-?&margin-w=10)
 
 
